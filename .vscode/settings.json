@@ -1,0 +1,6 @@
+{
+    "files.eol": "\n", 
+    "files.insertFinalNewline": true,
+    "editor.indentSize": 4,
+    "editor.detectIndentation": false
+}

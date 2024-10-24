@@ -1,0 +1,52 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# Node
+node_modules/
+**/node_modules/
+jspm_packages/
+**/jspm_packages/
+*.local
+out/
+dist/
+*.tgz
+.node_repl_history
+.eslintcache
+.npm
+*.tsbuildinfo
+
+# Editors 
+.vscode/*
+!.vscode/extensions.json
+!.vscode/settings.json
+.idea/
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+*~
+*.sublime-project
+*.sublime-workspace
+Thumbs.db
+ehthumbs.db
+
+# dotenv files
+.env
+.env.*
+!.env.example
+!.env.*.example
+!.env.example.*
+
+#
+test_data/
+
+*.js
+*.js.map
